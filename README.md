@@ -11,7 +11,7 @@ Introduced Eureka for service discovery.
 
 Microservices service discovery is a way for applications and microservices to locate each other on a network. Service discovery implementations within microservices architecture discovery includes both:
 
-• a central server (or servers) that maintain a global view of addresses.
-• clients that connect to the central server to update and retrieve addresses.
+1) a central server (or servers) that maintain a global view of addresses.
+2) clients that connect to the central server to update and retrieve addresses.
           Client goes to the discovery service to get the hostname and return back to client and hit the host but this will be handled by spring itself.
 
