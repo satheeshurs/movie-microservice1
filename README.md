@@ -1,6 +1,6 @@
 # movie-microservice1
 Goal to create a micro services
-As part of this three repository got created
+As part of this three repository got created.
 
 1) https://github.com/satheeshurs/movie-microservice1
 2) https://github.com/satheeshurs/movietheater-microservice1
