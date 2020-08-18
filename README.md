@@ -15,4 +15,4 @@ Microservices service discovery is a way for applications and microservices to l
 2) clients that connect to the central server to update and retrieve addresses.
           Client goes to the discovery service to get the hostname and return back to client and hit the host but this will be handled by spring itself.
 
-Modified
+Modified 2
